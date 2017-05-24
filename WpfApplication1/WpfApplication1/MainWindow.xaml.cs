@@ -28,8 +28,10 @@ namespace WpfApplication1
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             AddContact obj = new AddContact();
+
             obj.Show();
             this.Hide();
+
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
