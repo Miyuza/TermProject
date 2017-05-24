@@ -1,0 +1,10 @@
+﻿<Window x:Class="WpfApplication1.UpdateContact"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="UpdateContact" Height="300" Width="300">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="99,47,0,0" TextWrapping="Wrap" Text="Enter Contact id to update" VerticalAlignment="Top" Width="150"/>
+        <Button Content="Next" HorizontalAlignment="Left" Margin="196,178,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
